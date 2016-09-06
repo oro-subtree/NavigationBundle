@@ -1,4 +1,4 @@
-oro_system_configuration:
+system_configuration:
     fields:
         oro_navigation.maxItems:
             data_type: integer
